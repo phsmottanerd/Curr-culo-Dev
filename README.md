@@ -4,7 +4,13 @@ Paulo Henrique Santana Motta
 Desenvolvedor Front-End | Machine Learning | Análise de Dados
 Rio de Janeiro - RJ | 21 97215-0237 | phsmottavaiper@gmail.com
 LinkedIn: https://www.linkedin.com/in/paulohenrique-santana-motta-4b159380
-Portfólio: https://lnkd.in/dQ7ZSxTD
+Portfólio: :https://lnkd.in/dPUtWz9N 
+Portfólio: :https://lnkd.in/dJh9xMA8
+Portfólio: ::https://lnkd.in/dPX8MBnQ
+Portfólio: :https://lnkd.in/dJFdZnV9
+Portfólio: ::https://lnkd.in/dQ7ZSxTD
+
+
 Resumo Profissional
 Desenvolvedor Front-End com experiência em criação de sites responsivos, integração de APIs e
 análise de dados.
