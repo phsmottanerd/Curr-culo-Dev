@@ -64,4 +64,5 @@ Em projetos freelance, tive a oportunidade de desenvolver sites como One Piece S
 
 Objetivo: Busco oportunidades para aplicar minha experiência em desenvolvimento front-end e minhas novas habilidades em machine learning e análise de dados, contribuindo para o sucesso de projetos inovadores e colaborando em equipes altamente qualificadas.
 
-https://files.oaiusercontent.com/file-YnQG5ndzBc4oCeP2IId1Xrdc?se=2024-11-22T02%3A17%3A02Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0bd54f5b-887d-4700-9a6f-7537af2c74b3.webp&sig=qv4qZTMhdUvSWMnSKbdPcFCTast%2BAmbz/L25MkKgDXg%3D
+![image](https://github.com/user-attachments/assets/c5a29958-21d1-4e05-91e1-b582b0f78dd2)
+
